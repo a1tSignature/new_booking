@@ -1,0 +1,6 @@
+rootProject.name = 'test'
+include 'db'
+include 'commons'
+include 'services'
+include 'security'
+
